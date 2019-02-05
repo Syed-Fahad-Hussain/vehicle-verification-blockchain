@@ -1,0 +1,35 @@
+{
+  "name": "admin-panel",
+  "main": "truffle-config.js",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "firebase": "^5.5.1",
+    "history": "^4.7.2",
+    "material-ui": "^0.20.2",
+    "mocha": "^5.2.0",
+    "qrcode.react": "^0.8.0",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "react-firebase-file-uploader": "^2.4.2",
+    "react-grid-system": "^4.3.1",
+    "react-places-autocomplete": "^7.2.0",
+    "react-redux": "^5.0.6",
+    "react-router-dom": "4.2.2",
+    "react-router-redux": "^4.0.8",
+    "react-scripts": "1.1.5",
+    "react-sidebar": "^3.0.2",
+    "redux": "3.7.2",
+    "redux-thunk": "2.2.0",
+    "semantic-ui-react": "^0.82.5",
+    "truffle": "^4.1.14",
+    "truffle-hdwallet-provider": "0.0.6",
+    "web3": "^1.0.0-beta.36"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
